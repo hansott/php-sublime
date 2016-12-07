@@ -1,9 +1,6 @@
 This is a list of awesome PHP plugins for Sublime Text.
 
 ## Plugins
-> Sublime Text without [Package Control](https://sublime.wbond.net/) is like a zebra without stripes.
-
-### Interesting plugins:
   * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel): Code intelligence, Jump to Symbol Definition, ...
   * [GitGutter](https://github.com/jisaacks/GitGutter): Shows an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
   * [JSONLint](https://bitbucket.org/hmml/jsonlint): Plugin that finds issues in JSON.

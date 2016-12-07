@@ -14,3 +14,5 @@ This is a list of awesome PHP plugins for Sublime Text.
   * [PHPCompanion](https://github.com/erichard/SublimePHPCompanion): Plugin that provides cool stuff for PHP 5.3+ coding session.
   * [GitConflictResolver](https://github.com/Zeeker/sublime-GitConflictResolver): Plugin to help you resolving those nasty git conflicts.
   * [PHP Syntax Checker](https://github.com/naomichi-y/php_syntax_checker): When you save PHP file, perform syntax check of PHP.
+  
+Note: I don't maintain this list anymore because I switched to [PhpStorm](https://www.jetbrains.com/phpstorm).
